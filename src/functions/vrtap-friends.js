@@ -29,7 +29,7 @@ axios.defaults.headers = headers;
 //
 //
 
-app.http('createNewFriend', {
+/*app.http('createNewFriend', {
     methods: ['GET'],
     authLevel: 'anonymous',
     handler: async (request, context) => {
@@ -42,7 +42,7 @@ app.http('createNewFriend', {
         const name = request.query.get('name') || (await request.text()) || 'world';
         return { body: `Hello, ${name}!` };
     },
-});
+});*/
 
 //
 //
