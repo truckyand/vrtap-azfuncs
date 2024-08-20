@@ -1,6 +1,28 @@
 const { app, output } = require('@azure/functions');
 const axios = require('axios').default;
 
+// 
+// Axios config 
+//
+var headers = {
+    "accept": "application/json, text/plain, */*",
+    "accept-language": "en-US,en;q=0.9,vi;q=0.8",
+    "content-type": "application/json",
+    "dnt": 1,
+    "origin": "https://game.victoriavr.com",
+    "priority": "u=1, i",
+    "referer": "https://game.victoriavr.com/",
+    "sec-ch-ua": '"Not)A;Brand";v="99", "Google Chrome";v="127", "Chromium";v="127"',
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "Windows",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "same-site",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"
+};
+axios.defaults.headers = headers;
+
+
 // Config
 //
 const MIN = 8;
