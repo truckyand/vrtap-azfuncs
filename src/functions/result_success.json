@@ -1,0 +1,1490 @@
+[
+    {
+        "userId": "2746b9a3-5f37-4d9e-9876-c57373f299e9",
+        "energy": 1000,
+        "balance": 50,
+        "earned": 2000,
+        "clickConfiguration": {
+            "earnedPerClick": 1,
+            "balancePerClick": 1,
+            "energyPerClick": -1,
+            "maxEnergy": 1000,
+            "energyRecharge": 1
+        },
+        "newUser": true,
+        "dailyRewardClaimable": true,
+        "proxy": "104.207.33.87:3128"
+    },
+    {
+        "userId": "72b6b257-286c-4f19-9487-ab380d6825fd",
+        "energy": 1000,
+        "balance": 50,
+        "earned": 2000,
+        "clickConfiguration": {
+            "earnedPerClick": 1,
+            "balancePerClick": 1,
+            "energyPerClick": -1,
+            "maxEnergy": 1000,
+            "energyRecharge": 1
+        },
+        "newUser": true,
+        "dailyRewardClaimable": true,
+        "proxy": "104.207.60.214:3128"
+    },
+    {
+        "userId": "29d2e4a3-1a87-4d7c-95d7-87178c61463e",
+        "energy": 1000,
+        "balance": 50,
+        "earned": 2000,
+        "clickConfiguration": {
+            "earnedPerClick": 1,
+            "balancePerClick": 1,
+            "energyPerClick": -1,
+            "maxEnergy": 1000,
+            "energyRecharge": 1
+        },
+        "newUser": true,
+        "dailyRewardClaimable": true,
+        "proxy": "104.207.63.45:3128"
+    },
+    {
+        "userId": "7e9785ef-6258-403d-98f4-8cbb3f2ac578",
+        "energy": 1000,
+        "balance": 50,
+        "earned": 2000,
+        "clickConfiguration": {
+            "earnedPerClick": 1,
+            "balancePerClick": 1,
+            "energyPerClick": -1,
+            "maxEnergy": 1000,
+            "energyRecharge": 1
+        },
+        "newUser": true,
+        "dailyRewardClaimable": true,
+        "proxy": "104.207.63.55:3128"
+    },
+    {
+        "userId": "6c68a55a-0cd9-4dfc-bafc-a843c493c495",
+        "energy": 1000,
+        "balance": 50,
+        "earned": 2000,
+        "clickConfiguration": {
+            "earnedPerClick": 1,
+            "balancePerClick": 1,
+            "energyPerClick": -1,
+            "maxEnergy": 1000,
+            "energyRecharge": 1
+        },
+        "newUser": true,
+        "dailyRewardClaimable": true,
+        "proxy": "104.207.43.75:3128"
+    },
+    {
+        "userId": "7aaf0156-133e-411a-b3be-32cac59be8a8",
+        "energy": 1000,
+        "balance": 50,
+        "earned": 2000,
+        "clickConfiguration": {
+            "earnedPerClick": 1,
+            "balancePerClick": 1,
+            "energyPerClick": -1,
+            "maxEnergy": 1000,
+            "energyRecharge": 1
+        },
+        "newUser": true,
+        "dailyRewardClaimable": true,
+        "proxy": "104.207.45.204:3128"
+    },
+    {
+        "userId": "c4f5bd75-894a-495a-af8a-42d2ed5ba2e9",
+        "energy": 1000,
+        "balance": 50,
+        "earned": 2000,
+        "clickConfiguration": {
+            "earnedPerClick": 1,
+            "balancePerClick": 1,
+            "energyPerClick": -1,
+            "maxEnergy": 1000,
+            "energyRecharge": 1
+        },
+        "newUser": true,
+        "dailyRewardClaimable": true,
+        "proxy": "104.207.59.17:3128"
+    },
+    {
+        "userId": "705d5ee5-45ea-4277-b518-a70d5717ae10",
+        "energy": 1000,
+        "balance": 50,
+        "earned": 2000,
+        "clickConfiguration": {
+            "earnedPerClick": 1,
+            "balancePerClick": 1,
+            "energyPerClick": -1,
+            "maxEnergy": 1000,
+            "energyRecharge": 1
+        },
+        "newUser": true,
+        "dailyRewardClaimable": true,
+        "proxy": "104.207.58.162:3128"
+    },
+    {
+        "userId": "2171e1a6-43d6-4717-9beb-28270c49b7c2",
+        "energy": 1000,
+        "balance": 50,
+        "earned": 2000,
+        "clickConfiguration": {
+            "earnedPerClick": 1,
+            "balancePerClick": 1,
+            "energyPerClick": -1,
+            "maxEnergy": 1000,
+            "energyRecharge": 1
+        },
+        "newUser": true,
+        "dailyRewardClaimable": true,
+        "proxy": "104.207.54.112:3128"
+    },
+    {
+        "userId": "4ef4dfb9-56c4-4041-b549-ce16ee2d5ce7",
+        "energy": 1000,
+        "balance": 50,
+        "earned": 2000,
+        "clickConfiguration": {
+            "earnedPerClick": 1,
+            "balancePerClick": 1,
+            "energyPerClick": -1,
+            "maxEnergy": 1000,
+            "energyRecharge": 1
+        },
+        "newUser": true,
+        "dailyRewardClaimable": true,
+        "proxy": "104.207.39.205:3128"
+    },
+    {
+        "userId": "b13a2331-f2c4-4314-a642-1a19640911dc",
+        "energy": 1000,
+        "balance": 50,
+        "earned": 2000,
+        "clickConfiguration": {
+            "earnedPerClick": 1,
+            "balancePerClick": 1,
+            "energyPerClick": -1,
+            "maxEnergy": 1000,
+            "energyRecharge": 1
+        },
+        "newUser": true,
+        "dailyRewardClaimable": true,
+        "proxy": "104.207.42.67:3128"
+    },
+    {
+        "userId": "5072f55b-a0cf-45ed-b549-ab3b9da26fc3",
+        "energy": 1000,
+        "balance": 50,
+        "earned": 2000,
+        "clickConfiguration": {
+            "earnedPerClick": 1,
+            "balancePerClick": 1,
+            "energyPerClick": -1,
+            "maxEnergy": 1000,
+            "energyRecharge": 1
+        },
+        "newUser": false,
+        "dailyRewardClaimable": true,
+        "proxy": "104.207.52.21:3128"
+    },
+    {
+        "userId": "55907858-7bf0-4d72-84a4-ea0b330d6948",
+        "energy": 1000,
+        "balance": 50,
+        "earned": 2000,
+        "clickConfiguration": {
+            "earnedPerClick": 1,
+            "balancePerClick": 1,
+            "energyPerClick": -1,
+            "maxEnergy": 1000,
+            "energyRecharge": 1
+        },
+        "newUser": false,
+        "dailyRewardClaimable": true,
+        "proxy": "104.207.60.56:3128"
+    },
+    {
+        "userId": "7fc4ad40-7eb4-451e-8810-706053f17efb",
+        "energy": 1000,
+        "balance": 50,
+        "earned": 2000,
+        "clickConfiguration": {
+            "earnedPerClick": 1,
+            "balancePerClick": 1,
+            "energyPerClick": -1,
+            "maxEnergy": 1000,
+            "energyRecharge": 1
+        },
+        "newUser": true,
+        "dailyRewardClaimable": true,
+        "proxy": "104.207.41.51:3128"
+    },
+    {
+        "userId": "e32ca688-c3d1-4e05-91d5-a008d7a7b1af",
+        "energy": 1000,
+        "balance": 50,
+        "earned": 2000,
+        "clickConfiguration": {
+            "earnedPerClick": 1,
+            "balancePerClick": 1,
+            "energyPerClick": -1,
+            "maxEnergy": 1000,
+            "energyRecharge": 1
+        },
+        "newUser": true,
+        "dailyRewardClaimable": true,
+        "proxy": "104.167.28.253:3128"
+    },
+    {
+        "userId": "49227753-c8d5-4e56-bf8c-c162714624cb",
+        "energy": 1000,
+        "balance": 50,
+        "earned": 2000,
+        "clickConfiguration": {
+            "earnedPerClick": 1,
+            "balancePerClick": 1,
+            "energyPerClick": -1,
+            "maxEnergy": 1000,
+            "energyRecharge": 1
+        },
+        "newUser": true,
+        "dailyRewardClaimable": true,
+        "proxy": "104.167.29.24:3128"
+    },
+    {
+        "userId": "d177ddce-f4a5-4702-b1ec-46922c5ea275",
+        "energy": 1000,
+        "balance": 50,
+        "earned": 2000,
+        "clickConfiguration": {
+            "earnedPerClick": 1,
+            "balancePerClick": 1,
+            "energyPerClick": -1,
+            "maxEnergy": 1000,
+            "energyRecharge": 1
+        },
+        "newUser": false,
+        "dailyRewardClaimable": true,
+        "proxy": "104.167.25.166:3128"
+    },
+    {
+        "userId": "541a1dc3-1847-4c5a-b91a-80ebe8233378",
+        "energy": 1000,
+        "balance": 50,
+        "earned": 2000,
+        "clickConfiguration": {
+            "earnedPerClick": 1,
+            "balancePerClick": 1,
+            "energyPerClick": -1,
+            "maxEnergy": 1000,
+            "energyRecharge": 1
+        },
+        "newUser": true,
+        "dailyRewardClaimable": true,
+        "proxy": "104.207.32.176:3128"
+    },
+    {
+        "userId": "27dd4663-e39c-40f4-8ac9-51bdc1d521f9",
+        "energy": 1000,
+        "balance": 50,
+        "earned": 2000,
+        "clickConfiguration": {
+            "earnedPerClick": 1,
+            "balancePerClick": 1,
+            "energyPerClick": -1,
+            "maxEnergy": 1000,
+            "energyRecharge": 1
+        },
+        "newUser": true,
+        "dailyRewardClaimable": true,
+        "proxy": "104.207.43.14:3128"
+    },
+    {
+        "userId": "4d0234b5-ddb9-48c0-bbe8-592c7048e424",
+        "energy": 1000,
+        "balance": 50,
+        "earned": 2000,
+        "clickConfiguration": {
+            "earnedPerClick": 1,
+            "balancePerClick": 1,
+            "energyPerClick": -1,
+            "maxEnergy": 1000,
+            "energyRecharge": 1
+        },
+        "newUser": true,
+        "dailyRewardClaimable": true,
+        "proxy": "104.207.44.240:3128"
+    },
+    {
+        "userId": "9d875122-de6b-4788-85a4-ca8fcc5882a3",
+        "energy": 1000,
+        "balance": 50,
+        "earned": 2000,
+        "clickConfiguration": {
+            "earnedPerClick": 1,
+            "balancePerClick": 1,
+            "energyPerClick": -1,
+            "maxEnergy": 1000,
+            "energyRecharge": 1
+        },
+        "newUser": true,
+        "dailyRewardClaimable": true,
+        "proxy": "104.207.33.191:3128"
+    },
+    {
+        "userId": "ef6977ee-65c9-4cdb-bf7c-33989bead084",
+        "energy": 1000,
+        "balance": 50,
+        "earned": 2000,
+        "clickConfiguration": {
+            "earnedPerClick": 1,
+            "balancePerClick": 1,
+            "energyPerClick": -1,
+            "maxEnergy": 1000,
+            "energyRecharge": 1
+        },
+        "newUser": true,
+        "dailyRewardClaimable": true,
+        "proxy": "104.207.45.41:3128"
+    },
+    {
+        "userId": "810ce0c3-fce1-4484-b4b0-e4cd8bd5e927",
+        "energy": 1000,
+        "balance": 50,
+        "earned": 2000,
+        "clickConfiguration": {
+            "earnedPerClick": 1,
+            "balancePerClick": 1,
+            "energyPerClick": -1,
+            "maxEnergy": 1000,
+            "energyRecharge": 1
+        },
+        "newUser": true,
+        "dailyRewardClaimable": true,
+        "proxy": "104.207.38.250:3128"
+    },
+    {
+        "userId": "aa10321f-417a-4a33-a607-b594d29770f7",
+        "energy": 1000,
+        "balance": 50,
+        "earned": 2000,
+        "clickConfiguration": {
+            "earnedPerClick": 1,
+            "balancePerClick": 1,
+            "energyPerClick": -1,
+            "maxEnergy": 1000,
+            "energyRecharge": 1
+        },
+        "newUser": true,
+        "dailyRewardClaimable": true,
+        "proxy": "104.207.56.15:3128"
+    },
+    {
+        "userId": "cca135d2-1559-4a94-a16e-1a1c4293220b",
+        "energy": 1000,
+        "balance": 50,
+        "earned": 2000,
+        "clickConfiguration": {
+            "earnedPerClick": 1,
+            "balancePerClick": 1,
+            "energyPerClick": -1,
+            "maxEnergy": 1000,
+            "energyRecharge": 1
+        },
+        "newUser": true,
+        "dailyRewardClaimable": true,
+        "proxy": "104.207.59.218:3128"
+    },
+    {
+        "userId": "3de38b39-61c4-41b7-a715-0e185b63c9ba",
+        "energy": 1000,
+        "balance": 50,
+        "earned": 2000,
+        "clickConfiguration": {
+            "earnedPerClick": 1,
+            "balancePerClick": 1,
+            "energyPerClick": -1,
+            "maxEnergy": 1000,
+            "energyRecharge": 1
+        },
+        "newUser": true,
+        "dailyRewardClaimable": true,
+        "proxy": "104.167.27.189:3128"
+    },
+    {
+        "userId": "177ab5e0-2d0a-49c8-bd3f-33892de88954",
+        "energy": 1000,
+        "balance": 50,
+        "earned": 2000,
+        "clickConfiguration": {
+            "earnedPerClick": 1,
+            "balancePerClick": 1,
+            "energyPerClick": -1,
+            "maxEnergy": 1000,
+            "energyRecharge": 1
+        },
+        "newUser": false,
+        "dailyRewardClaimable": true,
+        "proxy": "104.167.28.114:3128"
+    },
+    {
+        "userId": "72b6b257-286c-4f19-9487-ab380d6825fd",
+        "energy": 1000,
+        "balance": 50,
+        "earned": 2000,
+        "clickConfiguration": {
+            "earnedPerClick": 1,
+            "balancePerClick": 1,
+            "energyPerClick": -1,
+            "maxEnergy": 1000,
+            "energyRecharge": 1
+        },
+        "newUser": false,
+        "dailyRewardClaimable": true,
+        "proxy": "104.167.26.40:3128"
+    },
+    {
+        "userId": "9dcd38a5-b1a7-4ab8-a442-6727dd91c85c",
+        "energy": 1000,
+        "balance": 50,
+        "earned": 2000,
+        "clickConfiguration": {
+            "earnedPerClick": 1,
+            "balancePerClick": 1,
+            "energyPerClick": -1,
+            "maxEnergy": 1000,
+            "energyRecharge": 1
+        },
+        "newUser": true,
+        "dailyRewardClaimable": true,
+        "proxy": "104.207.50.128:3128"
+    },
+    {
+        "userId": "82680c04-a851-418e-9428-7f4a791465d0",
+        "energy": 1000,
+        "balance": 50,
+        "earned": 2000,
+        "clickConfiguration": {
+            "earnedPerClick": 1,
+            "balancePerClick": 1,
+            "energyPerClick": -1,
+            "maxEnergy": 1000,
+            "energyRecharge": 1
+        },
+        "newUser": true,
+        "dailyRewardClaimable": true,
+        "proxy": "104.207.33.72:3128"
+    },
+    {
+        "userId": "4ef4dfb9-56c4-4041-b549-ce16ee2d5ce7",
+        "energy": 1000,
+        "balance": 50,
+        "earned": 2000,
+        "clickConfiguration": {
+            "earnedPerClick": 1,
+            "balancePerClick": 1,
+            "energyPerClick": -1,
+            "maxEnergy": 1000,
+            "energyRecharge": 1
+        },
+        "newUser": false,
+        "dailyRewardClaimable": true,
+        "proxy": "104.207.56.229:3128"
+    },
+    {
+        "userId": "aa10321f-417a-4a33-a607-b594d29770f7",
+        "energy": 1000,
+        "balance": 50,
+        "earned": 2000,
+        "clickConfiguration": {
+            "earnedPerClick": 1,
+            "balancePerClick": 1,
+            "energyPerClick": -1,
+            "maxEnergy": 1000,
+            "energyRecharge": 1
+        },
+        "newUser": false,
+        "dailyRewardClaimable": true,
+        "proxy": "104.167.31.26:3128"
+    },
+    {
+        "userId": "b3341afe-e783-4d00-8c79-d4ab6b522727",
+        "energy": 1000,
+        "balance": 50,
+        "earned": 2000,
+        "clickConfiguration": {
+            "earnedPerClick": 1,
+            "balancePerClick": 1,
+            "energyPerClick": -1,
+            "maxEnergy": 1000,
+            "energyRecharge": 1
+        },
+        "newUser": true,
+        "dailyRewardClaimable": true,
+        "proxy": "104.207.36.82:3128"
+    },
+    {
+        "userId": "b3341afe-e783-4d00-8c79-d4ab6b522727",
+        "energy": 1000,
+        "balance": 50,
+        "earned": 2000,
+        "clickConfiguration": {
+            "earnedPerClick": 1,
+            "balancePerClick": 1,
+            "energyPerClick": -1,
+            "maxEnergy": 1000,
+            "energyRecharge": 1
+        },
+        "newUser": false,
+        "dailyRewardClaimable": true,
+        "proxy": "104.207.61.16:3128"
+    },
+    {
+        "userId": "dde10b4e-0fc7-416c-acae-a88c54a317e4",
+        "energy": 1000,
+        "balance": 50,
+        "earned": 2000,
+        "clickConfiguration": {
+            "earnedPerClick": 1,
+            "balancePerClick": 1,
+            "energyPerClick": -1,
+            "maxEnergy": 1000,
+            "energyRecharge": 1
+        },
+        "newUser": true,
+        "dailyRewardClaimable": true,
+        "proxy": "104.207.56.12:3128"
+    },
+    {
+        "userId": "1d44b191-e43c-44da-8aea-91bdfc748fc3",
+        "energy": 1000,
+        "balance": 50,
+        "earned": 2000,
+        "clickConfiguration": {
+            "earnedPerClick": 1,
+            "balancePerClick": 1,
+            "energyPerClick": -1,
+            "maxEnergy": 1000,
+            "energyRecharge": 1
+        },
+        "newUser": true,
+        "dailyRewardClaimable": true,
+        "proxy": "104.167.29.221:3128"
+    },
+    {
+        "userId": "177ab5e0-2d0a-49c8-bd3f-33892de88954",
+        "energy": 1000,
+        "balance": 50,
+        "earned": 2000,
+        "clickConfiguration": {
+            "earnedPerClick": 1,
+            "balancePerClick": 1,
+            "energyPerClick": -1,
+            "maxEnergy": 1000,
+            "energyRecharge": 1
+        },
+        "newUser": false,
+        "dailyRewardClaimable": true,
+        "proxy": "104.207.50.93:3128"
+    },
+    {
+        "userId": "cd3752d7-97b0-46e9-8a91-810ba5732784",
+        "energy": 1000,
+        "balance": 50,
+        "earned": 2000,
+        "clickConfiguration": {
+            "earnedPerClick": 1,
+            "balancePerClick": 1,
+            "energyPerClick": -1,
+            "maxEnergy": 1000,
+            "energyRecharge": 1
+        },
+        "newUser": true,
+        "dailyRewardClaimable": true,
+        "proxy": "104.207.60.234:3128"
+    },
+    {
+        "userId": "9d875122-de6b-4788-85a4-ca8fcc5882a3",
+        "energy": 1000,
+        "balance": 50,
+        "earned": 2000,
+        "clickConfiguration": {
+            "earnedPerClick": 1,
+            "balancePerClick": 1,
+            "energyPerClick": -1,
+            "maxEnergy": 1000,
+            "energyRecharge": 1
+        },
+        "newUser": false,
+        "dailyRewardClaimable": true,
+        "proxy": "104.167.31.74:3128"
+    },
+    {
+        "userId": "535decc1-63f3-45d7-857f-9ed99282e6e3",
+        "energy": 1000,
+        "balance": 50,
+        "earned": 2000,
+        "clickConfiguration": {
+            "earnedPerClick": 1,
+            "balancePerClick": 1,
+            "energyPerClick": -1,
+            "maxEnergy": 1000,
+            "energyRecharge": 1
+        },
+        "newUser": true,
+        "dailyRewardClaimable": true,
+        "proxy": "104.207.44.68:3128"
+    },
+    {
+        "userId": "705d5ee5-45ea-4277-b518-a70d5717ae10",
+        "energy": 1000,
+        "balance": 50,
+        "earned": 2000,
+        "clickConfiguration": {
+            "earnedPerClick": 1,
+            "balancePerClick": 1,
+            "energyPerClick": -1,
+            "maxEnergy": 1000,
+            "energyRecharge": 1
+        },
+        "newUser": false,
+        "dailyRewardClaimable": true,
+        "proxy": "104.207.47.208:3128"
+    },
+    {
+        "userId": "a110ce61-cc92-4b81-aa48-5f4d608bcaa9",
+        "energy": 1000,
+        "balance": 50,
+        "earned": 2000,
+        "clickConfiguration": {
+            "earnedPerClick": 1,
+            "balancePerClick": 1,
+            "energyPerClick": -1,
+            "maxEnergy": 1000,
+            "energyRecharge": 1
+        },
+        "newUser": true,
+        "dailyRewardClaimable": true,
+        "proxy": "104.207.33.149:3128"
+    },
+    {
+        "userId": "dafb6046-e45e-4d1a-a5e2-e5f86c761add",
+        "energy": 1000,
+        "balance": 50,
+        "earned": 2000,
+        "clickConfiguration": {
+            "earnedPerClick": 1,
+            "balancePerClick": 1,
+            "energyPerClick": -1,
+            "maxEnergy": 1000,
+            "energyRecharge": 1
+        },
+        "newUser": true,
+        "dailyRewardClaimable": true,
+        "proxy": "104.207.42.254:3128"
+    },
+    {
+        "userId": "a22e8428-7240-4fef-ac9b-43cd9db81c6d",
+        "energy": 1000,
+        "balance": 50,
+        "earned": 2000,
+        "clickConfiguration": {
+            "earnedPerClick": 1,
+            "balancePerClick": 1,
+            "energyPerClick": -1,
+            "maxEnergy": 1000,
+            "energyRecharge": 1
+        },
+        "newUser": true,
+        "dailyRewardClaimable": true,
+        "proxy": "104.207.39.101:3128"
+    },
+    {
+        "userId": "8cbcfb5f-1f7a-4dbc-92d9-edd5bfc7c1d6",
+        "energy": 1000,
+        "balance": 50,
+        "earned": 2000,
+        "clickConfiguration": {
+            "earnedPerClick": 1,
+            "balancePerClick": 1,
+            "energyPerClick": -1,
+            "maxEnergy": 1000,
+            "energyRecharge": 1
+        },
+        "newUser": true,
+        "dailyRewardClaimable": true,
+        "proxy": "104.207.40.235:3128"
+    },
+    {
+        "userId": "29d2e4a3-1a87-4d7c-95d7-87178c61463e",
+        "energy": 1000,
+        "balance": 50,
+        "earned": 2000,
+        "clickConfiguration": {
+            "earnedPerClick": 1,
+            "balancePerClick": 1,
+            "energyPerClick": -1,
+            "maxEnergy": 1000,
+            "energyRecharge": 1
+        },
+        "newUser": false,
+        "dailyRewardClaimable": true,
+        "proxy": "104.167.30.157:3128"
+    },
+    {
+        "userId": "cddbd01c-54f3-4263-a934-fafb95f9a7b7",
+        "energy": 1000,
+        "balance": 50,
+        "earned": 2000,
+        "clickConfiguration": {
+            "earnedPerClick": 1,
+            "balancePerClick": 1,
+            "energyPerClick": -1,
+            "maxEnergy": 1000,
+            "energyRecharge": 1
+        },
+        "newUser": true,
+        "dailyRewardClaimable": true,
+        "proxy": "104.207.62.230:3128"
+    },
+    {
+        "userId": "bb5129b3-736e-4263-b87e-b5ea8654f22f",
+        "energy": 1000,
+        "balance": 50,
+        "earned": 2000,
+        "clickConfiguration": {
+            "earnedPerClick": 1,
+            "balancePerClick": 1,
+            "energyPerClick": -1,
+            "maxEnergy": 1000,
+            "energyRecharge": 1
+        },
+        "newUser": true,
+        "dailyRewardClaimable": true,
+        "proxy": "104.207.46.8:3128"
+    },
+    {
+        "userId": "aa1145a4-bc8c-420b-b2e6-370c039e9abc",
+        "energy": 1000,
+        "balance": 50,
+        "earned": 2000,
+        "clickConfiguration": {
+            "earnedPerClick": 1,
+            "balancePerClick": 1,
+            "energyPerClick": -1,
+            "maxEnergy": 1000,
+            "energyRecharge": 1
+        },
+        "newUser": true,
+        "dailyRewardClaimable": true,
+        "proxy": "104.207.59.233:3128"
+    },
+    {
+        "userId": "a22e8428-7240-4fef-ac9b-43cd9db81c6d",
+        "energy": 1000,
+        "balance": 50,
+        "earned": 2000,
+        "clickConfiguration": {
+            "earnedPerClick": 1,
+            "balancePerClick": 1,
+            "energyPerClick": -1,
+            "maxEnergy": 1000,
+            "energyRecharge": 1
+        },
+        "newUser": false,
+        "dailyRewardClaimable": true,
+        "proxy": "104.207.44.52:3128"
+    },
+    {
+        "userId": "c741fada-500e-452f-9b60-158d4cd7b0c1",
+        "energy": 1000,
+        "balance": 50,
+        "earned": 2000,
+        "clickConfiguration": {
+            "earnedPerClick": 1,
+            "balancePerClick": 1,
+            "energyPerClick": -1,
+            "maxEnergy": 1000,
+            "energyRecharge": 1
+        },
+        "newUser": true,
+        "dailyRewardClaimable": true,
+        "proxy": "104.167.28.49:3128"
+    },
+    {
+        "userId": "3de38b39-61c4-41b7-a715-0e185b63c9ba",
+        "energy": 1000,
+        "balance": 50,
+        "earned": 2000,
+        "clickConfiguration": {
+            "earnedPerClick": 1,
+            "balancePerClick": 1,
+            "energyPerClick": -1,
+            "maxEnergy": 1000,
+            "energyRecharge": 1
+        },
+        "newUser": false,
+        "dailyRewardClaimable": true,
+        "proxy": "104.207.56.185:3128"
+    },
+    {
+        "userId": "27d454a2-cd50-4841-8ddb-3d9e56138a21",
+        "energy": 1000,
+        "balance": 50,
+        "earned": 2000,
+        "clickConfiguration": {
+            "earnedPerClick": 1,
+            "balancePerClick": 1,
+            "energyPerClick": -1,
+            "maxEnergy": 1000,
+            "energyRecharge": 1
+        },
+        "newUser": true,
+        "dailyRewardClaimable": true,
+        "proxy": "104.207.57.56:3128"
+    },
+    {
+        "userId": "27dd4663-e39c-40f4-8ac9-51bdc1d521f9",
+        "energy": 1000,
+        "balance": 50,
+        "earned": 2000,
+        "clickConfiguration": {
+            "earnedPerClick": 1,
+            "balancePerClick": 1,
+            "energyPerClick": -1,
+            "maxEnergy": 1000,
+            "energyRecharge": 1
+        },
+        "newUser": false,
+        "dailyRewardClaimable": true,
+        "proxy": "104.207.58.238:3128"
+    },
+    {
+        "userId": "6ed1141f-0dae-43f7-952d-315866115a62",
+        "energy": 1000,
+        "balance": 50,
+        "earned": 2000,
+        "clickConfiguration": {
+            "earnedPerClick": 1,
+            "balancePerClick": 1,
+            "energyPerClick": -1,
+            "maxEnergy": 1000,
+            "energyRecharge": 1
+        },
+        "newUser": true,
+        "dailyRewardClaimable": true,
+        "proxy": "104.207.32.11:3128"
+    },
+    {
+        "userId": "aa10321f-417a-4a33-a607-b594d29770f7",
+        "energy": 1000,
+        "balance": 50,
+        "earned": 2000,
+        "clickConfiguration": {
+            "earnedPerClick": 1,
+            "balancePerClick": 1,
+            "energyPerClick": -1,
+            "maxEnergy": 1000,
+            "energyRecharge": 1
+        },
+        "newUser": false,
+        "dailyRewardClaimable": true,
+        "proxy": "104.207.42.182:3128"
+    },
+    {
+        "userId": "27d454a2-cd50-4841-8ddb-3d9e56138a21",
+        "energy": 1000,
+        "balance": 50,
+        "earned": 2000,
+        "clickConfiguration": {
+            "earnedPerClick": 1,
+            "balancePerClick": 1,
+            "energyPerClick": -1,
+            "maxEnergy": 1000,
+            "energyRecharge": 1
+        },
+        "newUser": false,
+        "dailyRewardClaimable": true,
+        "proxy": "104.207.58.215:3128"
+    },
+    {
+        "userId": "1a5d02d9-94ae-4d6f-8a32-d626d3059ead",
+        "energy": 1000,
+        "balance": 50,
+        "earned": 2000,
+        "clickConfiguration": {
+            "earnedPerClick": 1,
+            "balancePerClick": 1,
+            "energyPerClick": -1,
+            "maxEnergy": 1000,
+            "energyRecharge": 1
+        },
+        "newUser": true,
+        "dailyRewardClaimable": true,
+        "proxy": "104.207.52.8:3128"
+    },
+    {
+        "userId": "694d0aaf-7d85-470f-8ac4-f40d70851827",
+        "energy": 1000,
+        "balance": 50,
+        "earned": 2000,
+        "clickConfiguration": {
+            "earnedPerClick": 1,
+            "balancePerClick": 1,
+            "energyPerClick": -1,
+            "maxEnergy": 1000,
+            "energyRecharge": 1
+        },
+        "newUser": true,
+        "dailyRewardClaimable": true,
+        "proxy": "104.207.46.40:3128"
+    },
+    {
+        "userId": "ef6977ee-65c9-4cdb-bf7c-33989bead084",
+        "energy": 1000,
+        "balance": 50,
+        "earned": 2000,
+        "clickConfiguration": {
+            "earnedPerClick": 1,
+            "balancePerClick": 1,
+            "energyPerClick": -1,
+            "maxEnergy": 1000,
+            "energyRecharge": 1
+        },
+        "newUser": false,
+        "dailyRewardClaimable": true,
+        "proxy": "104.167.26.4:3128"
+    },
+    {
+        "userId": "b13a2331-f2c4-4314-a642-1a19640911dc",
+        "energy": 1000,
+        "balance": 50,
+        "earned": 2000,
+        "clickConfiguration": {
+            "earnedPerClick": 1,
+            "balancePerClick": 1,
+            "energyPerClick": -1,
+            "maxEnergy": 1000,
+            "energyRecharge": 1
+        },
+        "newUser": false,
+        "dailyRewardClaimable": true,
+        "proxy": "104.207.32.233:3128"
+    },
+    {
+        "userId": "55907858-7bf0-4d72-84a4-ea0b330d6948",
+        "energy": 1000,
+        "balance": 50,
+        "earned": 2000,
+        "clickConfiguration": {
+            "earnedPerClick": 1,
+            "balancePerClick": 1,
+            "energyPerClick": -1,
+            "maxEnergy": 1000,
+            "energyRecharge": 1
+        },
+        "newUser": false,
+        "dailyRewardClaimable": true,
+        "proxy": "104.207.43.237:3128"
+    },
+    {
+        "userId": "0491bec4-1ec9-4b9d-a54f-f5483e246c32",
+        "energy": 1000,
+        "balance": 50,
+        "earned": 2000,
+        "clickConfiguration": {
+            "earnedPerClick": 1,
+            "balancePerClick": 1,
+            "energyPerClick": -1,
+            "maxEnergy": 1000,
+            "energyRecharge": 1
+        },
+        "newUser": true,
+        "dailyRewardClaimable": true,
+        "proxy": "104.207.62.102:3128"
+    },
+    {
+        "userId": "6c68a55a-0cd9-4dfc-bafc-a843c493c495",
+        "energy": 1000,
+        "balance": 50,
+        "earned": 2000,
+        "clickConfiguration": {
+            "earnedPerClick": 1,
+            "balancePerClick": 1,
+            "energyPerClick": -1,
+            "maxEnergy": 1000,
+            "energyRecharge": 1
+        },
+        "newUser": false,
+        "dailyRewardClaimable": true,
+        "proxy": "104.207.62.112:3128"
+    },
+    {
+        "userId": "513da3a8-8212-4186-a8bd-be8a34f1c092",
+        "energy": 1000,
+        "balance": 50,
+        "earned": 2000,
+        "clickConfiguration": {
+            "earnedPerClick": 1,
+            "balancePerClick": 1,
+            "energyPerClick": -1,
+            "maxEnergy": 1000,
+            "energyRecharge": 1
+        },
+        "newUser": false,
+        "dailyRewardClaimable": true,
+        "proxy": "104.207.56.96:3128"
+    },
+    {
+        "userId": "2746b9a3-5f37-4d9e-9876-c57373f299e9",
+        "energy": 1000,
+        "balance": 50,
+        "earned": 2000,
+        "clickConfiguration": {
+            "earnedPerClick": 1,
+            "balancePerClick": 1,
+            "energyPerClick": -1,
+            "maxEnergy": 1000,
+            "energyRecharge": 1
+        },
+        "newUser": false,
+        "dailyRewardClaimable": true,
+        "proxy": "104.167.31.71:3128"
+    },
+    {
+        "userId": "fb1433db-69a8-4883-9216-90f104c3f945",
+        "energy": 1000,
+        "balance": 50,
+        "earned": 2000,
+        "clickConfiguration": {
+            "earnedPerClick": 1,
+            "balancePerClick": 1,
+            "energyPerClick": -1,
+            "maxEnergy": 1000,
+            "energyRecharge": 1
+        },
+        "newUser": true,
+        "dailyRewardClaimable": true,
+        "proxy": "104.167.31.176:3128"
+    },
+    {
+        "userId": "ce78bfe8-5229-4d08-9be1-a51459f57e20",
+        "energy": 1000,
+        "balance": 50,
+        "earned": 2000,
+        "clickConfiguration": {
+            "earnedPerClick": 1,
+            "balancePerClick": 1,
+            "energyPerClick": -1,
+            "maxEnergy": 1000,
+            "energyRecharge": 1
+        },
+        "newUser": true,
+        "dailyRewardClaimable": true,
+        "proxy": "104.207.52.103:3128"
+    },
+    {
+        "userId": "88ef2e0a-7381-4363-b4d1-c2e8813dbbc2",
+        "energy": 1000,
+        "balance": 50,
+        "earned": 2000,
+        "clickConfiguration": {
+            "earnedPerClick": 1,
+            "balancePerClick": 1,
+            "energyPerClick": -1,
+            "maxEnergy": 1000,
+            "energyRecharge": 1
+        },
+        "newUser": true,
+        "dailyRewardClaimable": true,
+        "proxy": "104.207.33.223:3128"
+    },
+    {
+        "userId": "535decc1-63f3-45d7-857f-9ed99282e6e3",
+        "energy": 1000,
+        "balance": 50,
+        "earned": 2000,
+        "clickConfiguration": {
+            "earnedPerClick": 1,
+            "balancePerClick": 1,
+            "energyPerClick": -1,
+            "maxEnergy": 1000,
+            "energyRecharge": 1
+        },
+        "newUser": false,
+        "dailyRewardClaimable": true,
+        "proxy": "104.207.46.155:3128"
+    },
+    {
+        "userId": "a2dd8f92-db5f-4fa0-9a25-66037da52db4",
+        "energy": 1000,
+        "balance": 50,
+        "earned": 2000,
+        "clickConfiguration": {
+            "earnedPerClick": 1,
+            "balancePerClick": 1,
+            "energyPerClick": -1,
+            "maxEnergy": 1000,
+            "energyRecharge": 1
+        },
+        "newUser": true,
+        "dailyRewardClaimable": true,
+        "proxy": "104.207.50.24:3128"
+    },
+    {
+        "userId": "a2dd8f92-db5f-4fa0-9a25-66037da52db4",
+        "energy": 1000,
+        "balance": 50,
+        "earned": 2000,
+        "clickConfiguration": {
+            "earnedPerClick": 1,
+            "balancePerClick": 1,
+            "energyPerClick": -1,
+            "maxEnergy": 1000,
+            "energyRecharge": 1
+        },
+        "newUser": false,
+        "dailyRewardClaimable": true,
+        "proxy": "104.207.46.73:3128"
+    },
+    {
+        "userId": "cddbd01c-54f3-4263-a934-fafb95f9a7b7",
+        "energy": 1000,
+        "balance": 50,
+        "earned": 2000,
+        "clickConfiguration": {
+            "earnedPerClick": 1,
+            "balancePerClick": 1,
+            "energyPerClick": -1,
+            "maxEnergy": 1000,
+            "energyRecharge": 1
+        },
+        "newUser": false,
+        "dailyRewardClaimable": true,
+        "proxy": "104.167.28.96:3128"
+    },
+    {
+        "userId": "19c8b828-8297-4109-ac53-052be5e2dc02",
+        "energy": 1000,
+        "balance": 50,
+        "earned": 2000,
+        "clickConfiguration": {
+            "earnedPerClick": 1,
+            "balancePerClick": 1,
+            "energyPerClick": -1,
+            "maxEnergy": 1000,
+            "energyRecharge": 1
+        },
+        "newUser": true,
+        "dailyRewardClaimable": true,
+        "proxy": "104.207.63.114:3128"
+    },
+    {
+        "userId": "4ef4dfb9-56c4-4041-b549-ce16ee2d5ce7",
+        "energy": 1000,
+        "balance": 50,
+        "earned": 2000,
+        "clickConfiguration": {
+            "earnedPerClick": 1,
+            "balancePerClick": 1,
+            "energyPerClick": -1,
+            "maxEnergy": 1000,
+            "energyRecharge": 1
+        },
+        "newUser": false,
+        "dailyRewardClaimable": true,
+        "proxy": "104.207.60.125:3128"
+    },
+    {
+        "userId": "3de38b39-61c4-41b7-a715-0e185b63c9ba",
+        "energy": 1000,
+        "balance": 50,
+        "earned": 2000,
+        "clickConfiguration": {
+            "earnedPerClick": 1,
+            "balancePerClick": 1,
+            "energyPerClick": -1,
+            "maxEnergy": 1000,
+            "energyRecharge": 1
+        },
+        "newUser": false,
+        "dailyRewardClaimable": true,
+        "proxy": "104.167.26.187:3128"
+    },
+    {
+        "userId": "177ab5e0-2d0a-49c8-bd3f-33892de88954",
+        "energy": 1000,
+        "balance": 50,
+        "earned": 2000,
+        "clickConfiguration": {
+            "earnedPerClick": 1,
+            "balancePerClick": 1,
+            "energyPerClick": -1,
+            "maxEnergy": 1000,
+            "energyRecharge": 1
+        },
+        "newUser": false,
+        "dailyRewardClaimable": true,
+        "proxy": "104.207.42.252:3128"
+    },
+    {
+        "userId": "2171e1a6-43d6-4717-9beb-28270c49b7c2",
+        "energy": 1000,
+        "balance": 50,
+        "earned": 2000,
+        "clickConfiguration": {
+            "earnedPerClick": 1,
+            "balancePerClick": 1,
+            "energyPerClick": -1,
+            "maxEnergy": 1000,
+            "energyRecharge": 1
+        },
+        "newUser": false,
+        "dailyRewardClaimable": true,
+        "proxy": "104.207.37.113:3128"
+    },
+    {
+        "userId": "72b6b257-286c-4f19-9487-ab380d6825fd",
+        "energy": 1000,
+        "balance": 50,
+        "earned": 2000,
+        "clickConfiguration": {
+            "earnedPerClick": 1,
+            "balancePerClick": 1,
+            "energyPerClick": -1,
+            "maxEnergy": 1000,
+            "energyRecharge": 1
+        },
+        "newUser": false,
+        "dailyRewardClaimable": true,
+        "proxy": "104.207.35.164:3128"
+    },
+    {
+        "userId": "8522be35-7777-483d-8ae1-b8458b366cd2",
+        "energy": 1000,
+        "balance": 50,
+        "earned": 2000,
+        "clickConfiguration": {
+            "earnedPerClick": 1,
+            "balancePerClick": 1,
+            "energyPerClick": -1,
+            "maxEnergy": 1000,
+            "energyRecharge": 1
+        },
+        "newUser": true,
+        "dailyRewardClaimable": true,
+        "proxy": "104.167.28.165:3128"
+    },
+    {
+        "userId": "de7902f2-f8db-4654-8c09-c0b0631955a7",
+        "energy": 1000,
+        "balance": 50,
+        "earned": 2000,
+        "clickConfiguration": {
+            "earnedPerClick": 1,
+            "balancePerClick": 1,
+            "energyPerClick": -1,
+            "maxEnergy": 1000,
+            "energyRecharge": 1
+        },
+        "newUser": true,
+        "dailyRewardClaimable": true,
+        "proxy": "104.207.43.226:3128"
+    },
+    {
+        "userId": "912b946e-ffe1-4aac-b876-cdf0f3603ce3",
+        "energy": 1000,
+        "balance": 50,
+        "earned": 2000,
+        "clickConfiguration": {
+            "earnedPerClick": 1,
+            "balancePerClick": 1,
+            "energyPerClick": -1,
+            "maxEnergy": 1000,
+            "energyRecharge": 1
+        },
+        "newUser": true,
+        "dailyRewardClaimable": true,
+        "proxy": "104.167.28.130:3128"
+    },
+    {
+        "userId": "d3e74577-e0d9-4c3d-ba9d-ebf92f5a178c",
+        "energy": 1000,
+        "balance": 50,
+        "earned": 2000,
+        "clickConfiguration": {
+            "earnedPerClick": 1,
+            "balancePerClick": 1,
+            "energyPerClick": -1,
+            "maxEnergy": 1000,
+            "energyRecharge": 1
+        },
+        "newUser": true,
+        "dailyRewardClaimable": true,
+        "proxy": "104.207.38.97:3128"
+    },
+    {
+        "userId": "1a5d02d9-94ae-4d6f-8a32-d626d3059ead",
+        "energy": 1000,
+        "balance": 50,
+        "earned": 2000,
+        "clickConfiguration": {
+            "earnedPerClick": 1,
+            "balancePerClick": 1,
+            "energyPerClick": -1,
+            "maxEnergy": 1000,
+            "energyRecharge": 1
+        },
+        "newUser": false,
+        "dailyRewardClaimable": true,
+        "proxy": "104.167.26.245:3128"
+    },
+    {
+        "userId": "2171e1a6-43d6-4717-9beb-28270c49b7c2",
+        "energy": 1000,
+        "balance": 50,
+        "earned": 2000,
+        "clickConfiguration": {
+            "earnedPerClick": 1,
+            "balancePerClick": 1,
+            "energyPerClick": -1,
+            "maxEnergy": 1000,
+            "energyRecharge": 1
+        },
+        "newUser": false,
+        "dailyRewardClaimable": true,
+        "proxy": "104.207.54.125:3128"
+    },
+    {
+        "userId": "71d68689-587f-4790-982c-241562071325",
+        "energy": 1000,
+        "balance": 50,
+        "earned": 2000,
+        "clickConfiguration": {
+            "earnedPerClick": 1,
+            "balancePerClick": 1,
+            "energyPerClick": -1,
+            "maxEnergy": 1000,
+            "energyRecharge": 1
+        },
+        "newUser": true,
+        "dailyRewardClaimable": true,
+        "proxy": "104.207.54.248:3128"
+    },
+    {
+        "userId": "a4691e86-8508-40bb-bb26-81d089423cfc",
+        "energy": 1000,
+        "balance": 50,
+        "earned": 2000,
+        "clickConfiguration": {
+            "earnedPerClick": 1,
+            "balancePerClick": 1,
+            "energyPerClick": -1,
+            "maxEnergy": 1000,
+            "energyRecharge": 1
+        },
+        "newUser": true,
+        "dailyRewardClaimable": true,
+        "proxy": "104.167.27.64:3128"
+    },
+    {
+        "userId": "bb5129b3-736e-4263-b87e-b5ea8654f22f",
+        "energy": 1000,
+        "balance": 50,
+        "earned": 2000,
+        "clickConfiguration": {
+            "earnedPerClick": 1,
+            "balancePerClick": 1,
+            "energyPerClick": -1,
+            "maxEnergy": 1000,
+            "energyRecharge": 1
+        },
+        "newUser": false,
+        "dailyRewardClaimable": true,
+        "proxy": "104.207.52.131:3128"
+    },
+    {
+        "userId": "c741fada-500e-452f-9b60-158d4cd7b0c1",
+        "energy": 1000,
+        "balance": 50,
+        "earned": 2000,
+        "clickConfiguration": {
+            "earnedPerClick": 1,
+            "balancePerClick": 1,
+            "energyPerClick": -1,
+            "maxEnergy": 1000,
+            "energyRecharge": 1
+        },
+        "newUser": false,
+        "dailyRewardClaimable": true,
+        "proxy": "104.207.34.79:3128"
+    },
+    {
+        "userId": "010a630a-02cc-4db0-9095-e7bb9ca31774",
+        "energy": 1000,
+        "balance": 50,
+        "earned": 2000,
+        "clickConfiguration": {
+            "earnedPerClick": 1,
+            "balancePerClick": 1,
+            "energyPerClick": -1,
+            "maxEnergy": 1000,
+            "energyRecharge": 1
+        },
+        "newUser": true,
+        "dailyRewardClaimable": true,
+        "proxy": "104.207.52.174:3128"
+    },
+    {
+        "userId": "1d44b191-e43c-44da-8aea-91bdfc748fc3",
+        "energy": 1000,
+        "balance": 50,
+        "earned": 2000,
+        "clickConfiguration": {
+            "earnedPerClick": 1,
+            "balancePerClick": 1,
+            "energyPerClick": -1,
+            "maxEnergy": 1000,
+            "energyRecharge": 1
+        },
+        "newUser": false,
+        "dailyRewardClaimable": true,
+        "proxy": "104.207.55.230:3128"
+    },
+    {
+        "userId": "a22e8428-7240-4fef-ac9b-43cd9db81c6d",
+        "energy": 1000,
+        "balance": 50,
+        "earned": 2000,
+        "clickConfiguration": {
+            "earnedPerClick": 1,
+            "balancePerClick": 1,
+            "energyPerClick": -1,
+            "maxEnergy": 1000,
+            "energyRecharge": 1
+        },
+        "newUser": false,
+        "dailyRewardClaimable": true,
+        "proxy": "104.207.36.225:3128"
+    },
+    {
+        "userId": "64ec4a76-a19a-48d5-8c41-81bc1166a308",
+        "energy": 1000,
+        "balance": 50,
+        "earned": 2000,
+        "clickConfiguration": {
+            "earnedPerClick": 1,
+            "balancePerClick": 1,
+            "energyPerClick": -1,
+            "maxEnergy": 1000,
+            "energyRecharge": 1
+        },
+        "newUser": true,
+        "dailyRewardClaimable": true,
+        "proxy": "104.167.26.242:3128"
+    }
+]

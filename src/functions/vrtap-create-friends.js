@@ -25,24 +25,6 @@ var headers = {
 };
 axios.defaults.headers = headers;
 
-//
-//
-//
-
-/*app.http('createNewFriend', {
-    methods: ['GET'],
-    authLevel: 'anonymous',
-    handler: async (request, context) => {
-        context.log(`Http function processed request for url "${request.url}". Invocation ID: "${context.invocationId}`);
-
-        //
-        await createNewFriend(request, context);
-
-        //
-        const name = request.query.get('name') || (await request.text()) || 'world';
-        return { body: `Hello, ${name}!` };
-    },
-});*/
 
 //
 //
