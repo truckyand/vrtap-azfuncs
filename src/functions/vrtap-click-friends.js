@@ -38,11 +38,15 @@ async function click_list(myTimer, context) {
 
     try {
         // Ready proxy list
+        context.log(`Ready proxy list...`);
+
         var str = await fs.readFile('./result_success.json', 'utf-8');
         var resultList = JSON.parse(str);
         context.log(`Result found: ${resultList.length}`);
     }
     catch (ex) {
+        context.log(`Cannot read proxy list. ${ex.message}`);
+        
         context.log(ex);
     }
 
