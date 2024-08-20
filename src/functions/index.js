@@ -1,6 +1,6 @@
 const { app } = require('@azure/functions');
-//const vrtap_click =require('./vrtap-click');
-//const vrtap_createNewFriend =require('./vrtap-friends');
+const vrtap_click = require('./vrtap-click');
+//const vrtap_createNewFriend = require('./vrtap-friends');
 
 //
 app.timer('vrtap-click-abc', {
@@ -9,7 +9,7 @@ app.timer('vrtap-click-abc', {
         context.log(`Enter vrtap-click-abc. Invocation ID: "${context.invocationId}"`);
         //return { hello: 'world' }
 
-        //await vrtap_click(myTimer, context);
+        await vrtap_click(myTimer, context);
     }
 });
 
