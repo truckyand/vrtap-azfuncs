@@ -39,9 +39,7 @@ async function click_list(myTimer, context) {
     try {
         // Ready proxy list
         context.log(`Ready proxy list...`);
-
-        var str = await fs.readFile('./result_success.json', 'utf-8');
-        var resultList = JSON.parse(str);
+        var resultList = require('./result_success.json');
         context.log(`Result found: ${resultList.length}`);
     }
     catch (ex) {
