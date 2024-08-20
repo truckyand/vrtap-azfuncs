@@ -1,6 +1,6 @@
 const { app } = require('@azure/functions');
-const vrtap_click =require('./vrtap-click');
-const vrtap_createNewFriend =require('./vrtap-friends');
+//const vrtap_click =require('./vrtap-click');
+//const vrtap_createNewFriend =require('./vrtap-friends');
 
 //
 app.timer('vrtap-click-abc', {
@@ -20,7 +20,7 @@ app.http('createNewFriend', {
         context.log(`Http function processed request for url "${request.url}". Invocation ID: "${context.invocationId}`);
 
         //
-        await vrtap_createNewFriend(request, context);
+        //await vrtap_createNewFriend(request, context);
 
         //
         const name = request.query.get('name') || (await request.text()) || 'world';
