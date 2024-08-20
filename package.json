@@ -2,7 +2,7 @@
   "name": "vrtap_az",
   "version": "1.0.0",
   "description": "",
-  "main": "src/functions/test1.js",
+  "main": "src/functions/index.js",
   "scripts": {
     "lint": "eslint . --fix",
     "format": "prettier . --write",

@@ -72,3 +72,6 @@ async function createNewFriend(request, context) {
         context.log(e);
     }
 }
+
+//
+module.exports = createNewFriend;

@@ -59,3 +59,5 @@ async function click(myTimer, context) {
         context.log(e);
     }
 }
+
+module.exports = click;
