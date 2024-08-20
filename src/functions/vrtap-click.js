@@ -1,6 +1,6 @@
 https://github.com/Azure/azure-functions-nodejs-samples/blob/main/js/src/functions/timerTrigger1.js
 // https://github.com/Azure/azure-functions-nodejs-samples/blob/main/js/src/functions/timerTrigger1.js
-const { app, output } = require('@azure/functions');
+const { app } = require('@azure/functions');
 const axios = require('axios').default;
 
 // 

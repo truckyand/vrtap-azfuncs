@@ -4,8 +4,6 @@
   "description": "",
   "main": "src/functions/index.js",
   "scripts": {
-    "lint": "eslint . --fix",
-    "format": "prettier . --write",
     "start": "func start",
     "test": "echo \"No tests yet...\""
   },

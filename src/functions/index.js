@@ -9,7 +9,7 @@ app.timer('vrtap-click-abc', {
         context.log(`Enter vrtap-click-abc. Invocation ID: "${context.invocationId}"`);
         //return { hello: 'world' }
 
-        await vrtap_click(myTimer, context);
+        //await vrtap_click(myTimer, context);
     }
 });
 
