@@ -15,6 +15,5 @@
     "concurrency": {
         "dynamicConcurrencyEnabled": true,
         "snapshotPersistenceEnabled": true
-    },
-    "functions": [ "vrtap-click-abc", "createNewFriend" ]
+    }
 }
