@@ -36,7 +36,7 @@ app.http('createNewFriend', {
         context.log(`Http function processed request for url "${request.url}". Invocation ID: "${context.invocationId}`);
 
         //
-        
+        await createNewFriend(request, context);
 
         //
         const name = request.query.get('name') || (await request.text()) || 'world';
