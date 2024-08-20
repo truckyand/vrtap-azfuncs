@@ -2,7 +2,7 @@
   "name": "vrtap_az",
   "version": "1.0.0",
   "description": "",
-  "main": "src/functions/vrtap-click/vrtap-click.js",
+  "main": "src/functions/test1.js",
   "scripts": {
     "lint": "eslint . --fix",
     "format": "prettier . --write",
@@ -13,20 +13,9 @@
   "license": "ISC",
   "dependencies": {
     "@azure/functions": "^4.5.0",
-    "@azure/functions-opentelemetry-instrumentation": "^0.1.0",
-    "@azure/monitor-opentelemetry-exporter": "^1.0.0-beta.23",
-    "@opentelemetry/api": "^1.8.0",
-    "@opentelemetry/auto-instrumentations-node": "^0.46.1",
-    "@opentelemetry/exporter-logs-otlp-http": "^0.51.1",
     "axios": "^1.7.4"
   },
   "devDependencies": {
-    "eslint": "^7.32.0",
-    "eslint-config-prettier": "^8.3.0",
-    "eslint-plugin-import": "^2.29.0",
-    "eslint-plugin-prettier": "^4.0.0",
-    "eslint-plugin-simple-import-sort": "^10.0.0",
-    "prettier": "^2.4.1",
     "@faker-js/faker": "^8.4.1"
   }
 }
