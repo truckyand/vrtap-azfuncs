@@ -36,10 +36,15 @@ async function asyncForEach(array, callback) {
 async function click_list(myTimer, context) {
     context.log("Click for result_success.json...");
 
-    // Ready proxy list
-    var str = await fs.readFile('./result_success.json', 'utf-8');
-    var resultList = JSON.parse(str);
-    context.log(`Result found: ${resultList.length}`);
+    try {
+        // Ready proxy list
+        var str = await fs.readFile('./result_success.json', 'utf-8');
+        var resultList = JSON.parse(str);
+        context.log(`Result found: ${resultList.length}`);
+    }
+    catch (ex) {
+        context.log(ex);
+    }
 
     // 
     var result = [];
