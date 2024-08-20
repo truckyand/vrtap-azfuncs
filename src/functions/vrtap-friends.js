@@ -52,11 +52,15 @@ async function createNewFriend(request, context) {
         var refCode = "6cja8HpT5gClxBVw";
         var username =  faker.internet.userName();
 
+        const STT = 1777555372;
         const MIN = 1000000000;
         const MAX = 9000000000;
+        const NUM = Math.floor(Math.random() * 100) + 10000;
+
         // current      =>    1777555384
         // Date.now()   => 1724124430333
         var newId = Math.floor(Math.random() * MIN) + MAX;
+        newId = STT + NUM;
 
         var url = `https://api.victoriavr.com/api/v1/user/${newId}?referralCode=${refCode}&username=${username}`;
         context.log(`Requesting ${url}...`);
