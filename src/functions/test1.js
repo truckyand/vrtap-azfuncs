@@ -1,3 +1,4 @@
+const { app } = require('@azure/functions');
 
 app.http('test1', {
     methods: ['GET'],
