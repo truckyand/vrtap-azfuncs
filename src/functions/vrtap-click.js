@@ -12,7 +12,7 @@ const url = `https://api.victoriavr.com/api/v1/user/${userId}/click`;
 
 //
 app.timer('vrtap-click-abc', {
-    schedule: '0 */5 * * * *',
+    schedule: '*/15 * * * * *',
     handler: async (myTimer, context) => {
         context.log(`Enter vrtap-click-abc. Invocation ID: "${context.invocationId}"`);
         //return { hello: 'world' }
